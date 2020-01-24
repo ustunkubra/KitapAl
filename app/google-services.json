@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862110408075",
+    "firebase_url": "https://kitapalver-3b59c.firebaseio.com",
+    "project_id": "kitapalver-3b59c",
+    "storage_bucket": "kitapalver-3b59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862110408075:android:da835a4940e55542cc638e",
+        "android_client_info": {
+          "package_name": "com.tdu.kitapalver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862110408075-5avnq0c90cb46v7clsshs6ba3lddt4un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFu7TRmAiiZPsBgazgAZBb0jm1o3jhQoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862110408075-5avnq0c90cb46v7clsshs6ba3lddt4un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
